@@ -2,3 +2,5 @@
 Bonjour, voici l'adresse du repository gitHub :
 
 https://github.com/anthoxico/openclassroom
+
+Au revoir et bonne journée !
